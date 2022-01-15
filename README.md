@@ -1,14 +1,14 @@
 # ElectricPiano Report
 
 1. Phân công nhiệm vụ:
-2. 
+
    Bùi Quốc Khánh: Viết mã nguồn file python, tìm hiểu cách tạo âm thanh Do, Re, Mi,...
    
    Nguyễn Văn Diện: Viết mã nguồn file c.
    
 2. Nộp chương trình
-3. 
-4. Giải thích nguyên tắc phát ra các âm thanh Do, Re, Mi,...
+
+3. Giải thích nguyên tắc phát ra các âm thanh Do, Re, Mi,...
 
   Tần số thạch anh: 11.0592MHz
   
